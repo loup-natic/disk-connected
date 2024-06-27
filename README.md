@@ -1,2 +1,2 @@
 # disk-connected
-for a game
+a game about an otter with a hand on it's tail
